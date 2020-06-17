@@ -7,12 +7,13 @@ ERRORS=""
 
 for file in *.ipynb
 do
-    if papermill --kernel python3 "${file}" "${file}"; then
+    if [ "${file}" = "2020-03-16-covid19_growth_bayes.ipynb" ]; then
+        echo "Skipping ${file}"
+    elif papermill --kernel python3 "${file}" "${file}"; then
         echo "Sucessfully refreshed ${file}\n\n\n\n"
-        git add "${file}"
     else
         echo "ERROR Refreshing ${file}"
-        ERRORS="${ERRORS}\n${file}"
+        ERRORS="${ERRORS}, ${file}"
     fi
 done
 
@@ -21,6 +22,7 @@ if [ -z "$ERRORS" ]
 then
     echo "::set-output name=error_bool::false"
 else
+    echo "These files failed to update properly: ${ERRORS}"
     echo "::set-output name=error_bool::true"
     echo "::set-output name=error_str::${ERRORS}"
 fi

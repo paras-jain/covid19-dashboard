@@ -169,7 +169,9 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/1569786?v=4",
       "profile": "https://github.com/vladpke",
       "contributions": [
-        "maintenance"
+        "maintenance",
+        "code",
+        "content"
       ]
     },
     {
@@ -177,6 +179,151 @@
       "name": "adrianturcato",
       "avatar_url": "https://avatars3.githubusercontent.com/u/9288755?v=4",
       "profile": "https://github.com/adrianturcato",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "zachmayer",
+      "name": "Zach Mayer",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/581590?v=4",
+      "profile": "https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "javaldro",
+      "name": "Jared Valdron",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/31542321?v=4",
+      "profile": "https://github.com/javaldro",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "skullface",
+      "name": "skullface",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/221550?v=4",
+      "profile": "http://jessicapaoli.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "vantuyls",
+      "name": "Steve Van Tuyl",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9534576?v=4",
+      "profile": "https://github.com/vantuyls",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "zaxtax",
+      "name": "zaxtax",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8529?v=4",
+      "profile": "https://www.zinkov.com",
+      "contributions": [
+        "content",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "paras-jain",
+      "name": "Paras Jain",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/57864667?v=4",
+      "profile": "https://github.com/paras-jain",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "artdgn",
+      "name": "Arthur Deygin",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/29574203?v=4",
+      "profile": "https://github.com/artdgn",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "kant",
+      "name": "Darío Hereñú",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/32717?v=4",
+      "profile": "https://github.com/kant",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "danielpcox",
+      "name": "Daniel Cox",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/56411?v=4",
+      "profile": "http://danielpcox.info",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "TeepaBlue",
+      "name": "TeepaBlue",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/42367122?v=4",
+      "profile": "https://github.com/TeepaBlue",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Martin-Boehler",
+      "name": "Martin Boehler",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/39620954?v=4",
+      "profile": "http://linkedin.com/in/Martin-Boehler",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "kannankumar",
+      "name": "Kannan Kumar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/711743?v=4",
+      "profile": "http://kannankumar.github.io",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "Otman404",
+      "name": "Otman404",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/43283622?v=4",
+      "profile": "https://github.com/Otman404",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "alonsosilvaallende",
+      "name": "Alonso Silva Allende",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/30263736?v=4",
+      "profile": "http://www.dim.uchile.cl/~alsilva/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "anomal",
+      "name": "Sophiah (Zing-Ming)",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1459721?v=4",
+      "profile": "https://github.com/anomal",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "arungupta21",
+      "name": "Arun Gupta",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7274372?v=4",
+      "profile": "https://github.com/arungupta21",
       "contributions": [
         "content"
       ]

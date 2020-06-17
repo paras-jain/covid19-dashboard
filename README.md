@@ -7,7 +7,7 @@
 
 ## https://covid19dashboards.com
 
-#### This project was built with [fastpages](https://github.com/fastai/fastpages)
+## This project was built with [fastpages](https://github.com/fastai/fastpages)
 
 ### Background
 
@@ -19,7 +19,7 @@ See the [contributing guide](CONTRIBUTING.md).
 ## Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -50,8 +50,28 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/jenniechow"><img src="https://avatars1.githubusercontent.com/u/36515276?v=4" width="100px;" alt=""/><br /><sub><b>Jennie Chow</b></sub></a><br /><a href="#content-jenniechow" title="Content">🖋</a> <a href="https://github.com/github/covid19-dashboard/pulls?q=is%3Apr+reviewed-by%3Ajenniechow" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="http://jhoward.fastmail.fm"><img src="https://avatars1.githubusercontent.com/u/346999?v=4" width="100px;" alt=""/><br /><sub><b>Jeremy Howard</b></sub></a><br /><a href="#tool-jph00" title="Tools">🔧</a> <a href="#ideas-jph00" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://www.linkedin.com/in/omojumiller"><img src="https://avatars2.githubusercontent.com/u/1815882?v=4" width="100px;" alt=""/><br /><sub><b>Omoju Miller</b></sub></a><br /><a href="#projectManagement-omoju" title="Project Management">📆</a></td>
-    <td align="center"><a href="https://github.com/vladpke"><img src="https://avatars1.githubusercontent.com/u/1569786?v=4" width="100px;" alt=""/><br /><sub><b>Vlad Stan</b></sub></a><br /><a href="#maintenance-vladpke" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/vladpke"><img src="https://avatars1.githubusercontent.com/u/1569786?v=4" width="100px;" alt=""/><br /><sub><b>Vlad Stan</b></sub></a><br /><a href="#maintenance-vladpke" title="Maintenance">🚧</a> <a href="https://github.com/github/covid19-dashboard/commits?author=vladpke" title="Code">💻</a> <a href="#content-vladpke" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/adrianturcato"><img src="https://avatars3.githubusercontent.com/u/9288755?v=4" width="100px;" alt=""/><br /><sub><b>adrianturcato</b></sub></a><br /><a href="#content-adrianturcato" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python"><img src="https://avatars2.githubusercontent.com/u/581590?v=4" width="100px;" alt=""/><br /><sub><b>Zach Mayer</b></sub></a><br /><a href="#maintenance-zachmayer" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/javaldro"><img src="https://avatars3.githubusercontent.com/u/31542321?v=4" width="100px;" alt=""/><br /><sub><b>Jared Valdron</b></sub></a><br /><a href="#content-javaldro" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://jessicapaoli.com"><img src="https://avatars2.githubusercontent.com/u/221550?v=4" width="100px;" alt=""/><br /><sub><b>skullface</b></sub></a><br /><a href="https://github.com/github/covid19-dashboard/commits?author=skullface" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/vantuyls"><img src="https://avatars2.githubusercontent.com/u/9534576?v=4" width="100px;" alt=""/><br /><sub><b>Steve Van Tuyl</b></sub></a><br /><a href="#content-vantuyls" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.zinkov.com"><img src="https://avatars1.githubusercontent.com/u/8529?v=4" width="100px;" alt=""/><br /><sub><b>zaxtax</b></sub></a><br /><a href="#content-zaxtax" title="Content">🖋</a> <a href="#maintenance-zaxtax" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/paras-jain"><img src="https://avatars0.githubusercontent.com/u/57864667?v=4" width="100px;" alt=""/><br /><sub><b>Paras Jain</b></sub></a><br /><a href="#content-paras-jain" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/artdgn"><img src="https://avatars0.githubusercontent.com/u/29574203?v=4" width="100px;" alt=""/><br /><sub><b>Arthur Deygin</b></sub></a><br /><a href="#content-artdgn" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/kant"><img src="https://avatars1.githubusercontent.com/u/32717?v=4" width="100px;" alt=""/><br /><sub><b>Darío Hereñú</b></sub></a><br /><a href="#content-kant" title="Content">🖋</a></td>
+    <td align="center"><a href="http://danielpcox.info"><img src="https://avatars0.githubusercontent.com/u/56411?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Cox</b></sub></a><br /><a href="#content-danielpcox" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/TeepaBlue"><img src="https://avatars1.githubusercontent.com/u/42367122?v=4" width="100px;" alt=""/><br /><sub><b>TeepaBlue</b></sub></a><br /><a href="#content-TeepaBlue" title="Content">🖋</a></td>
+    <td align="center"><a href="http://linkedin.com/in/Martin-Boehler"><img src="https://avatars0.githubusercontent.com/u/39620954?v=4" width="100px;" alt=""/><br /><sub><b>Martin Boehler</b></sub></a><br /><a href="#content-Martin-Boehler" title="Content">🖋</a></td>
+    <td align="center"><a href="http://kannankumar.github.io"><img src="https://avatars3.githubusercontent.com/u/711743?v=4" width="100px;" alt=""/><br /><sub><b>Kannan Kumar</b></sub></a><br /><a href="#maintenance-kannankumar" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/Otman404"><img src="https://avatars1.githubusercontent.com/u/43283622?v=4" width="100px;" alt=""/><br /><sub><b>Otman404</b></sub></a><br /><a href="#content-Otman404" title="Content">🖋</a></td>
+    <td align="center"><a href="http://www.dim.uchile.cl/~alsilva/"><img src="https://avatars0.githubusercontent.com/u/30263736?v=4" width="100px;" alt=""/><br /><sub><b>Alonso Silva Allende</b></sub></a><br /><a href="#content-alonsosilvaallende" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/anomal"><img src="https://avatars0.githubusercontent.com/u/1459721?v=4" width="100px;" alt=""/><br /><sub><b>Sophiah (Zing-Ming)</b></sub></a><br /><a href="#content-anomal" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/arungupta21"><img src="https://avatars3.githubusercontent.com/u/7274372?v=4" width="100px;" alt=""/><br /><sub><b>Arun Gupta</b></sub></a><br /><a href="#content-arungupta21" title="Content">🖋</a></td>
   </tr>
 </table>
 
